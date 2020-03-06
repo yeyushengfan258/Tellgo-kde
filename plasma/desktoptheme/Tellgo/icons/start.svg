@@ -21,12 +21,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#3a3a3a"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -35,19 +35,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="973"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="5.3636364"
-     inkscape:cx="-64.742124"
-     inkscape:cy="15.612144"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-17.394627"
+     inkscape:cy="13.256898"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false">
     <inkscape:grid
        type="xygrid"
        id="grid4539" />
@@ -61,28 +63,19 @@
   </style>
   </defs>
   <g
-     id="22-22-start-here-kde">
+     id="g1024"
+     transform="translate(-31,-33)">
+    <path
+       id="circle904"
+       d="M 56,0 A 11,11 0 0 0 45,11 11,11 0 0 0 56,22 11,11 0 0 0 67,11 11,11 0 0 0 56,0 Z m 0,3 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z"
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       inkscape:connector-curvature="0" />
     <circle
-       r="11"
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.45408762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="circle1019"
+       cx="56"
        cy="11"
-       cx="11"
-       id="path822"
-       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-    <g
-       transform="translate(-45)"
-       id="g1024">
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         d="M 56,0 A 11,11 0 0 0 45,11 11,11 0 0 0 56,22 11,11 0 0 0 67,11 11,11 0 0 0 56,0 Z m 0,3 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z"
-         id="circle904" />
-      <circle
-         r="4"
-         cy="11"
-         cx="56"
-         id="circle1019"
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.45408762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-    </g>
+       r="4" />
   </g>
   <g
      id="start-here-kde">
@@ -94,19 +87,56 @@
        x="-39"
        y="-5" />
     <g
-       transform="translate(46)"
-       id="g1092">
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.4757849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         d="m -69,-2 a 13,13 0 0 0 -13,13 13,13 0 0 0 13,13 13,13 0 0 0 13,-13 13,13 0 0 0 -13,-13 z m 0,4 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 z"
-         id="circle1066" />
+       transform="matrix(1.1818182,0,0,1.1818182,-36,-2.0000002)"
+       id="g883">
       <circle
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.45408767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="circle1086"
-         cx="-69"
+         r="11"
          cy="11"
-         r="4" />
+         cx="11"
+         id="circle875"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <g
+         transform="translate(-41,-1)"
+         id="g881">
+        <path
+           style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.4757849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="M -23 -2 A 13 13 0 0 0 -36 11 A 13 13 0 0 0 -23 24 A 13 13 0 0 0 -13.613281 19.986328 A 9.4545456 9.4545456 0 0 1 -20.355469 22.818359 A 9.4545456 9.4545456 0 0 1 -29.810547 13.363281 A 9.4545456 9.4545456 0 0 1 -20.355469 3.9082031 A 9.4545456 9.4545456 0 0 1 -10.900391 13.363281 A 9.4545456 9.4545456 0 0 1 -12.914062 19.191406 A 13 13 0 0 0 -10 11 A 13 13 0 0 0 -23 -2 z M -20.355469 7.9160156 A 5.4472476 5.4472476 0 0 0 -25.802734 13.363281 A 5.4472476 5.4472476 0 0 0 -20.355469 18.810547 A 5.4472476 5.4472476 0 0 0 -14.908203 13.363281 A 5.4472476 5.4472476 0 0 0 -20.355469 7.9160156 z "
+           transform="matrix(0.84615383,0,0,0.84615383,71.461538,2.6923078)"
+           id="path877" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1092"
+     transform="translate(11,-25)">
+    <path
+       id="circle1066"
+       d="m -69,-2 a 13,13 0 0 0 -13,13 13,13 0 0 0 13,13 13,13 0 0 0 13,-13 13,13 0 0 0 -13,-13 z m 0,4 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 z"
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.4757849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="4"
+       cy="11"
+       cx="-69"
+       id="circle1086"
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.45408767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     id="22-22-start-here-kde">
+    <circle
+       r="11"
+       cy="11"
+       cx="11"
+       id="path822"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <g
+       transform="translate(-41,-1)"
+       id="g863">
+      <path
+         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="M 11 0 A 11 11 0 0 0 0 11 A 11 11 0 0 0 11 22 A 11 11 0 0 0 18.947266 18.599609 A 8 8 0 0 1 13.234375 21 A 8 8 0 0 1 5.234375 13 A 8 8 0 0 1 13.234375 5 A 8 8 0 0 1 21.234375 13 A 8 8 0 0 1 19.515625 17.953125 A 11 11 0 0 0 22 11 A 11 11 0 0 0 11 0 z M 13.234375 8.390625 A 4.6092094 4.6092094 0 0 0 8.625 13 A 4.6092094 4.6092094 0 0 0 13.234375 17.609375 A 4.6092094 4.6092094 0 0 0 17.84375 13 A 4.6092094 4.6092094 0 0 0 13.234375 8.390625 z "
+         transform="translate(41,1)"
+         id="path825" />
     </g>
   </g>
 </svg>
